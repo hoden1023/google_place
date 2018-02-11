@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Place</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="place_type">Place Type</string>
+</resources>
